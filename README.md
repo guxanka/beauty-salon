@@ -33,7 +33,11 @@
 ![Личный кабинет](assets/images/screenshots/account.png)
 
 **Админ-панель**
-![Админ-панель](assets/images/screenshots/admin1.png) (assets/images/screenshots/admin2.png) (assets/images/screenshots/admin3.png) (assets/images/screenshots/admin4.png) (assets/images/screenshots/admin5.png)
+![Админ-панель](assets/images/screenshots/admin1.png)
+![Админ-панель](assets/images/screenshots/admin2.png)
+![Админ-панель](assets/images/screenshots/admin3.png)
+![Админ-панель](assets/images/screenshots/admin4.png)
+![Админ-панель](assets/images/screenshots/admin5.png)
 
 **Авторизация**
 ![Авторизация](assets/images/screenshots/reg.png)
