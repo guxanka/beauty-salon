@@ -21,6 +21,29 @@
 - Управление списком мастеров и услуг
 - Просмотр свободных временных слотов
 
+## Скриншоты
+
+**Главная страница**
+![Главная страница](assets/images/screenshots/main.png)
+
+**Онлайн-запись**
+![Онлайн-запись](assets/images/screenshots/booking.png)
+
+**Личный кабинет**
+![Личный кабинет](assets/images/screenshots/account.png)
+
+**Админ-панель**
+![Админ-панель](assets/images/screenshots/admin1.png) (assets/images/screenshots/admin2.png) (assets/images/screenshots/admin3.png) (assets/images/screenshots/admin4.png) (assets/images/screenshots/admin5.png)
+
+**Авторизация**
+![Авторизация](assets/images/screenshots/reg.png)
+
+**Мастера**
+![Мастера](assets/images/screenshots/masters.png)
+
+**Услуги**
+![Услуги](assets/images/screenshots/services.png)
+
 ## Стек 
 
 - **Backend:** PHP
